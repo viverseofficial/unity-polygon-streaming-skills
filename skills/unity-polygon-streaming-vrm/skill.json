@@ -1,0 +1,17 @@
+{
+  "id": "unity-polygon-streaming-vrm",
+  "name": "unity-polygon-streaming-vrm",
+  "version": "0.1.0",
+  "status": "active",
+  "description": "Stream VRM 1.0 avatars with expressions, look-at, spring bones, VRMA, Mecanim humanoid, MToon shading, and first-person mesh filtering.",
+  "tags": ["polygon-streaming", "viverse", "unity", "xrg", "vrm", "avatar", "univrm", "mtoon", "vrma", "spring-bone", "mecanim"],
+  "prerequisites": [
+    "com.viverse.polygon-streaming installed",
+    "StreamController in the scene with Viewer Camera assigned",
+    "XRG derived from a VRM 1.0 source",
+    "UniVRM (com.vrmc.gltf + com.vrmc.vrm) required for VRMA and MToon"
+  ],
+  "entrypoint": "SKILL.md",
+  "read_order": ["SKILL.md"],
+  "dependencies": []
+}

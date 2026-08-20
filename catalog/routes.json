@@ -1,0 +1,73 @@
+{
+  "routes": [
+    {
+      "intent": [
+        "unity polygon streaming quickstart",
+        "install polygon streaming unity",
+        "com.viverse.polygon-streaming",
+        "unity add package from tarball xrg",
+        "streamcontroller scene setup",
+        "polygonstreaming layer",
+        "unity polygon streaming prefabs"
+      ],
+      "skills": ["unity-polygon-streaming-quickstart"]
+    },
+    {
+      "intent": [
+        "unity static xrg model",
+        "streamingmodel static glb",
+        "streamingmodel fbx",
+        "fetchcollidermesh",
+        "unity polygon streaming custom materials",
+        "swap xrg url unity runtime",
+        "unity streaming model callback",
+        "unity onaddstreamingmodel"
+      ],
+      "skills": ["unity-polygon-streaming-static-models"]
+    },
+    {
+      "intent": [
+        "unity animated glb streaming",
+        "streamingmodelanimator",
+        "custom animator controller xrg",
+        "embeddedclips animation mode",
+        "playanimation streamingmodel",
+        "setanimationtrigger unity xrg",
+        "log animations streamingmodel",
+        "dummy animation clip xrg"
+      ],
+      "skills": ["unity-polygon-streaming-animated-glb"]
+    },
+    {
+      "intent": [
+        "unity vrm streaming xrg",
+        "vrm avatar polygon streaming",
+        "univrm polygon streaming",
+        "vrma animation streamingmodel",
+        "vrmmecanim animation mode",
+        "vrm spring bones streamingmodel",
+        "vrm expressions blink happy",
+        "mtoon polygon streaming",
+        "setvrmlookattarget",
+        "vrmfirstpersoncontroller"
+      ],
+      "skills": ["unity-polygon-streaming-vrm"]
+    },
+    {
+      "intent": [
+        "unity polygon streaming",
+        "unity xrg",
+        "streamcontroller",
+        "streamingmodel",
+        "polygon streaming unity sdk",
+        "viverse polygon streaming unity"
+      ],
+      "skills": [
+        "unity-polygon-streaming-quickstart",
+        "unity-polygon-streaming-static-models",
+        "unity-polygon-streaming-animated-glb",
+        "unity-polygon-streaming-vrm"
+      ]
+    }
+  ]
+}

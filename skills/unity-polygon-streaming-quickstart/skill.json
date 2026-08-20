@@ -1,0 +1,16 @@
+{
+  "id": "unity-polygon-streaming-quickstart",
+  "name": "unity-polygon-streaming-quickstart",
+  "version": "0.1.0",
+  "status": "active",
+  "description": "Install the Viverse Polygon Streaming Unity SDK and wire up a scene: .tgz install, StreamController + StreamingModel, PolygonStreaming layer, prefabs.",
+  "tags": ["polygon-streaming", "viverse", "unity", "xrg", "quickstart", "setup"],
+  "prerequisites": [
+    "Unity 2021+ project",
+    "XRG model URL from https://stream.viverse.com/console",
+    "A scene camera"
+  ],
+  "entrypoint": "SKILL.md",
+  "read_order": ["SKILL.md"],
+  "dependencies": []
+}

@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "generated_at": "2026-08-20T06:13:09.997Z",
+  "skills": [
+    {
+      "id": "unity-polygon-streaming-animated-glb",
+      "path": "skills/unity-polygon-streaming-animated-glb/skill.json"
+    },
+    {
+      "id": "unity-polygon-streaming-quickstart",
+      "path": "skills/unity-polygon-streaming-quickstart/skill.json"
+    },
+    {
+      "id": "unity-polygon-streaming-static-models",
+      "path": "skills/unity-polygon-streaming-static-models/skill.json"
+    },
+    {
+      "id": "unity-polygon-streaming-vrm",
+      "path": "skills/unity-polygon-streaming-vrm/skill.json"
+    }
+  ]
+}
