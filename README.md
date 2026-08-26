@@ -5,7 +5,7 @@ AI Skills bundle for the **Viverse Polygon Streaming Unity SDK** (`com.viverse.p
 Polygon Streaming streams high-fidelity `.xrg` 3D models (converted from GLB / FBX / VRM) into a Unity scene at runtime, with progressive LOD, KTX-compressed textures, and dynamic occlusion culling. This bundle equips AI coding agents to integrate the SDK correctly — matching the exact component names, inspector fields, animation modes, and VRM APIs shipped in the package.
 
 > [!NOTE]
-> This is the **Unity** counterpart to [`web-polygon-streaming-skills`](https://github.com/EJHuang-HTC/web-polygon-streaming-skills) (PlayCanvas / Three.js / Babylon.js).
+> This is the **Unity** counterpart to [`web-polygon-streaming-skills`](https://github.com/viverseofficial/web-polygon-streaming-skills) (PlayCanvas / Three.js / Babylon.js).
 
 ## SDK identity
 
